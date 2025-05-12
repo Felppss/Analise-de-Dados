@@ -1,13 +1,14 @@
 # Missão Prática - RPG0033
 Tratando a Imensida o dos Dados
 
-1. Introdução
+1- Introdução
 Este documento descreve o passo a passo da execuça o da missa o pra tica da disciplina RPG0033,
 seguindo todas as orientaço es do roteiro fornecido. O objetivo foi realizar o tratamento de dados
 em um arquivo CSV utilizando Python e a biblioteca Pandas, preparando o conjunto de dados
 para futuras ana lises e mineraça o de conhecimento.
 
-2. Etapas Realizadas
+2- Etapas Realizadas
+
 1. 1. Leitura do arquivo 'dados.csv' com separador ';', utilizando a engine 'python' e encoding
 'utf-8'.
 2. 2. Exibiça o das informaço es gerais do conjunto de dados (info), primeiras e u ltimas linhas
@@ -25,7 +26,7 @@ para futuras ana lises e mineraça o de conhecimento.
 12. 12. Exibiça o final dos dados tratados (DataFrame e info).
 13. 13. Exportaça o do DataFrame final para 'dados_tratados.csv'.
 
-3. Conclusão
+3- Conclusão
 Com a execuça o das etapas descritas acima, foi possí vel realizar com sucesso a limpeza e o
 preparo do conjunto de dados, garantindo que ele esteja pronto para aplicaço es futuras de
 ana lise ou mineraça o de dados. O processo utilizou pra ticas comuns em cie ncia de dados e
