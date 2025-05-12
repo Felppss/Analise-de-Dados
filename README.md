@@ -8,7 +8,6 @@ em um arquivo CSV utilizando Python e a biblioteca Pandas, preparando o conjunto
 para futuras ana lises e mineraça o de conhecimento.
 
 2. Etapas Realizadas
-
 1. 1. Leitura do arquivo 'dados.csv' com separador ';', utilizando a engine 'python' e encoding
 'utf-8'.
 2. 2. Exibiça o das informaço es gerais do conjunto de dados (info), primeiras e u ltimas linhas
